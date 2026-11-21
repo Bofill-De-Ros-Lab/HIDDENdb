@@ -69,7 +69,7 @@ A co-dependency is a statistical association between fitness profiles and does n
 
 If HIDDENdb contributes to published work, please cite:
 
-> De Silva, I., Bandu, S.P., Kidmose, R.T., Maseras, G.T., Bataillon, T., Bofill-De Ros, X. HIDDENdb: Co-dependency database reveals a plethora of genetic and protein interactions.
+> De Silva, I., Bandu, S.P., Kidmose, R.T., Maseras, G.T., Bataillon, T., Bofill-De Ros, X. (2026). HIDDENdb: Co-dependency database reveals a plethora of genetic and protein interactions. *arXiv* 2603.06903. https://arxiv.org/abs/2603.06903
 
 Please also cite the primary data sources on which a given result depends. These are listed in [Citing and contact](https://github.com/Bofill-De-Ros-Lab/HIDDENdb/wiki/Citing-and-contact).
 
